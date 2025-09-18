@@ -21,7 +21,7 @@ spring:
       max-request-size: 100MB
 
 minio:
-  url: http://localhost:9000
+  url: http://minio:9000
   access-key: i9BxveU1e2ceAS5pRcbs
   secret-key: 8yZCiJknuPu7U4Em6dE8Kw1onXUKu0Lbp5OFgXSG
   bucket-name: books
